@@ -1,0 +1,53 @@
+{
+    "Header_1": "About",
+    "Header_2": "Skills",
+    "Header_3": "Projects",
+    "Header_4": "Contact",
+    "Header_5": "CV",
+
+    "Hero_titel": "HI THERE 👋 I'M",
+    "Hero_subtitel_one": "DEVELOPER",
+    "Hero_subtitel_two": "DESIGNER",
+    "Hero_description_one": "I'm a professional Full Stack.",
+    "Hero_description_two": "Developer with Designing Skills",
+    "Hero_description_three": "based in  Germany.",
+
+    "About_titel": "About",
+    "About_subtitel": "WHO I AM",
+
+    "About_Description_One": "Hello! My name is Rajpreet and I enjoy creating things that are live on the internet. My interest in web development and app development started back in 2014 when I decided to create a own social media - turns out that trying out is the best way to learn something. So I started to learn Languages like Java, JavaScript, Python & C#",
+    "About_Description_Two": "Fast forward to today, and I've had the privilege of working as a freelancer. My main focus these days is building accessible, inclusive products and digital experiences at Honet - Nellessen, Singh GbR, which is my start-up where we create these kind of things for Clients. ",
+
+
+    "Skills_titel": "SKILLS",
+
+    "Projects_titel": "PROJECTS",
+    "Projects_subtitel": "PICK A CARD 🃏",
+    "Projects_endtitel": "AND MANY MORE...",
+
+
+    "Project_Card_btn": "Website",
+    
+    "Project_Card_1": "A Client with a Tannery in Borghorst",
+    "Project_Card_2": "A Client with a newly founded Solar Company",
+    "Project_Card_3": "A Clinet with a private Life Coaching Agency in Borghorst",
+    "Project_Card_4": "My Start-Up Company which is an Online Agency",
+    "Project_Card_5": "Experiments with a Backend CMS",
+    "Project_Card_6": "Experiments with Maps and APIs",
+    
+
+
+    "Contact_title": "CONTACT ME",
+    "Contact_form_name": "Name",
+    "Contact_form_subject": "Subject",
+    "Contact_form_email": "Email",
+    "Contact_form_message": "Message",
+    "Contact_form_send_btn": "Send",
+
+    "Contact_Toastify_success": "Successfully sended! We are going to contact you back as soon as possible.",
+    "Contact_Toastify_error":"There is an error",
+
+    "Footer_navigation": "Imprint",
+    "Footer_source": "MADE WITH ❤️ BY HONET"
+    
+}

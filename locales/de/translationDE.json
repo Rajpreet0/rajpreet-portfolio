@@ -1,0 +1,55 @@
+{
+    "Header_1": "Über mich",
+    "Header_2": "Skills",
+    "Header_3": "Projekte",
+    "Header_4": "Kontakt",
+    "Header_5": "CV",
+
+    "Hero_titel": "HALLÖ 👋 ICH BIN",
+    "Hero_subtitel_one": "ENTWICKLER",
+    "Hero_subtitel_two": "DESIGNER",
+    "Hero_description_one": "Ich bin ein professioneler Full Stack",
+    "Hero_description_two": " Developer & Designer",
+    "Hero_description_three": "aus Deutschland.",
+
+
+    "About_titel": "Über mich",
+    "About_subtitel": "WER BIN ICH",
+
+    
+    "About_Description_One": "Hallo! Mein Name ist Rajpreet und ich liebe es dinge zu erstellen die Live im Internet sind. Mein Interesse an Webentwicklung und App-Entwicklung begann bereits 2014, als ich beschloss, eine eigene Social Media App zu erstellen - dabei stellte sich heraus, dass das Ausprobieren der beste Weg ist, etwas zu lernen. Alse fing ich an, Sprachen wie Java, JavaScript, Python & C# zu lernen.",
+    "About_Description_Two": "Heutzutage hatte ich das Privileg als Freiberufler zu arbeiten. Mein Fokus liegt derzeit auf die Entwicklung Digitaler Produkte für Clienten bei Honet - Nellessen, Singh GbR, meinem Start-up. ",
+
+    "Skills_titel": "SKILLS",
+
+    "Projects_titel": "Projekte",
+    "Projects_subtitel": "WÄHLE EINE KARTE 🃏",
+    "Projects_endtitel": "NOCH VIELE MEHR...",
+
+
+    "Project_Card_btn": "Webseite",
+    
+    "Project_Card_1": "Eine Clinet mit einer Gereberi Firma in Borghorst",
+    "Project_Card_2": "Eine Clinet mit neu gegründeten Solar Firma",
+    "Project_Card_3": "Ein Client mit einer privaten Life Coaching Agentur für Menschen aus Borghorst",
+    "Project_Card_4": "Mein Start-Up für welches eine Online Agentur ist",
+    "Project_Card_5": "Experimente mit einem Backend CMS",
+    "Project_Card_6": "Experimente mit Maps und APIs",
+    
+
+
+    "Contact_title": "KONTAKTIERE MICH",
+    "Contact_form_name": "Name",
+    "Contact_form_subject": "Anliegen",
+    "Contact_form_email": "Email",
+    "Contact_form_message": "Nachricht",
+    "Contact_form_send_btn": "Senden",
+
+    "Contact_Toastify_success": "Die Email wurde erfolgreich verschickt. Wir werden uns melden!",
+    "Contact_Toastify_error":"Da hat etwas nicht geklappt",
+
+
+    "Footer_navigation": "Impressum",
+    "Footer_source": "MADE WITH ❤️ BY HONET"
+    
+}
