@@ -58,7 +58,7 @@ function Header() {
 
                   <div className='flex'>
              
-                  <a href="https://drive.google.com/file/d/1o7uDB0SgTMPXLo42ziU8RbmTVDyCX085/view?usp=sharing" 
+                  <a href="https://drive.google.com/file/d/1cGCvBGQ5qd4OBuG-Aqo2IWHHbOCthibi/view?usp=sharing" 
                   target='_blank' rel='noopener noreferrer'>
                     <button
                     className='px-8 py-2 rounded-full tracking-widest hover:scale-110 transition-all 
@@ -120,7 +120,7 @@ function Header() {
                      {t('Header_4')}
                      </Link>
                         <div className='block p-3 px-6 pt-2 cursor-pointer'>
-                        <a href="https://drive.google.com/file/d/1o7uDB0SgTMPXLo42ziU8RbmTVDyCX085/view?usp=sharing" 
+                        <a href="https://drive.google.com/file/d/1cGCvBGQ5qd4OBuG-Aqo2IWHHbOCthibi/view?usp=sharing" 
                   target='_blank' rel='noopener noreferrer'>    
                         <button
                       className='px-8 py-2 rounded-full tracking-widest ' style={{backgroundColor: '#DF7861', color: '#fff'}}>
