@@ -58,7 +58,7 @@ function Imprint() {
                  <br/>
                  <p>Honet - Nellessen, Singh GbR</p>
                  <a href='https://honet.page' target="_blank" rel='noopener noreferrer' className='underline'>www.honet.page</a>
-                 <p>+49 176 76729010</p>
+                 <p>+49 176 47601638</p>
                  <p>honet.contact@gmail.com</p>
                  <br/>
                  <h4 className='font-bold'>Haftung für Inhalte</h4>
