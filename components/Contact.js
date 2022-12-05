@@ -53,7 +53,7 @@ function Contact() {
                <a href='mailto:rajpreet.singh@gmx.de'><GoMail style={{width: 30, height: 30, color: '#df7861'}} /></a>
              </div>
              <div  className='border-2 p-2 rounded-full hover:scale-110 transition-all cursor-pointer' style={{borderColor: '#93b4a0'}}>
-               <a href='tel:017676729010'><BsTelephone style={{width: 30, height: 30, color: '#93b4a0'}} /></a>
+               <a href='tel:017647601638'><BsTelephone style={{width: 30, height: 30, color: '#93b4a0'}} /></a>
              </div>
              <div  className='border-2 p-2 rounded-full hover:scale-110 transition-all cursor-pointer' style={{borderColor: '#df7861'}}>
                <a href='https://www.instagram.com/rajpreet1810/' target="_blank" rel='noopener noreferrer'><AiOutlineInstagram style={{width: 30, height: 30, color: '#df7861'}} /></a>
