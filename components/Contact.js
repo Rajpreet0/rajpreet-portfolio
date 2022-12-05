@@ -99,7 +99,7 @@ function Contact() {
               </div>
               </form>
               <div className='p-4 md:w-5/12 md:mr-16'>
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19598.08687678328!2d7.377472347129202!3d52.120479803675714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b84aa60c80f9d5%3A0xa27f283d29f3e20!2sBorghorst%2C%2048565%20Steinfurt!5e0!3m2!1sde!2sde!4v1655571708492!5m2!1sde!2sde" width="100%" height="550" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" 
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42390.95330490302!2d8.627424493108284!3d49.99033283980677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd730e9f20ae5f%3A0x422435029b0a130!2s63225%20Langen%20(Hessen)!5e0!3m2!1sde!2sde!4v1670241448816!5m2!1sde!2sde" width="100%" height="550" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" 
               className='rounded-lg text-center'></iframe>
               </div>
               
